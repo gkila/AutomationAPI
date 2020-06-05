@@ -1,0 +1,5 @@
+testAPI\APITest.class
+testAPI\ConsultarSimulacaoTest.class
+testAPI\SimulacaoApiTest.class
+testAPI\RestricaoApiTest.class
+testAPI\GerenciarSimulacaoTest.class
